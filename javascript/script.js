@@ -200,7 +200,8 @@
     pumpDecode();
   }
   function pumpFetch() {
-    while (fetching.size < 6 && fetchQueue.size) {
+    // Compressed frames are small; fetch ahead without retaining every decoded bitmap.
+    while (fetching.size < 16 && fetchQueue.size) {
       const index = [...fetchQueue].sort(
         (a, b) => Math.abs(a - targetFrame) - Math.abs(b - targetFrame),
       )[0];
