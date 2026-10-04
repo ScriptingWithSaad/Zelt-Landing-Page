@@ -1,0 +1,26 @@
+{
+  "sequence": {
+    "source": "https://zelt.app/assets/img/home/hero/sequence/",
+    "frames": 118,
+    "width": 1600,
+    "height": 1000
+  },
+  "artwork": {
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_0.png": "assets/images/people/img_0.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_1.png": "assets/images/people/img_1.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_2.png": "assets/images/people/img_2.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_3.png": "assets/images/people/img_3.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_4.png": "assets/images/people/img_4.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_5.png": "assets/images/people/img_5.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_6.png": "assets/images/people/img_6.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_7.png": "assets/images/people/img_7.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_8.png": "assets/images/people/img_8.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/overview/people/images/img_9.png": "assets/images/people/img_9.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_0.png": "assets/images/simple/img_0.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_1.png": "assets/images/simple/img_1.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_2.png": "assets/images/simple/img_2.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_3.png": "assets/images/simple/img_3.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_4.png": "assets/images/simple/img_4.png",
+    "https://zelt.app/wp-content/themes/zelt/assets/lottie/home/feature/simple/images/img_5.png": "assets/images/simple/img_5.png"
+  }
+}
